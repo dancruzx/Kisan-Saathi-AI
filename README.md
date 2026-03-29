@@ -8,7 +8,16 @@
 ╚═╝ ╚═╝╚═╝╚══════╝╚═╝ ╚═╝╚═╝ ╚═══╝ ╚══════╝╚═╝ ╚═╝ ╚═╝ ╚═╝
 </pre>
 
-# Kisan Saathi AI 🌱
+# 🌾 Kisan Saathi – AI-Powered Farming Companion
+
+> [!IMPORTANT]
+> **Intellectual Property Notice:** This project was developed for the respective hackathon.
+> The architecture, unique multimodal logic, and UI/UX design are 
+> protected under International Copyright Law. 
+> 
+> **Unauthorized copying, cloning, or commercial use is strictly prohibited.**
+> For collaboration or permission to use specific components, please contact: 
+> feeds.creations@gmail.com.
 
 ### Your AI Agronomist for the Next Generation of Farming.
 **A Generative Reasoning Engine designed to secure the harvest for 150 million smallholder farmers.**
