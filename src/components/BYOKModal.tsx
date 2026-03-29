@@ -77,7 +77,7 @@ export default function BYOKModal({ onClose }: BYOKModalProps) {
                   : "text-on-surface-variant hover:text-on-surface"
               }`}
             >
-              Groq (Fallback)
+              Groq (Recommended)
             </button>
           </div>
 
@@ -95,6 +95,15 @@ export default function BYOKModal({ onClose }: BYOKModalProps) {
             <p className="text-[10px] text-on-surface-variant mt-2 font-label">
               Keys are stored locally. Zero server-side persistence.
             </p>
+            <a 
+              href="/api-keys-guide.html" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="mt-3 text-xs text-primary hover:underline font-body flex items-center gap-1 w-fit"
+            >
+              <span className="material-symbols-outlined text-[14px]">help</span>
+              How to get free API keys?
+            </a>
           </div>
 
           <button 
