@@ -17,8 +17,6 @@
 
 <p align="center">
   <img src="https://i.imgur.com/YOUR_APP_DEMO_GIF.gif" alt="Kisan Saathi App Demo" width="300px">
-  <br/>
-  <em>(Replace this link with a screen recording/GIF of the app in action!)</em>
 </p>
 
 </div>
